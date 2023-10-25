@@ -1,0 +1,102 @@
+ <!doctype html>
+
+<html>
+    <head>
+        <title>CS 146 CV</title>
+    </head>
+
+    <body>
+        <h1>Tess Robinson</h1>
+
+         <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src= "IMG_9539.heic"
+                     alt="personal photo"
+                     style="width:100px;height:100px;">
+            </div>
+            <div class="Contact">
+                <h4>Contact Info</h4>
+                <p><b>Phone:</b> 212-235-2358 | <b>Email:</b> trobinso1@stevens.edu | <b>Location:</b> New York, NY, 10016</p>
+                <hr></hr>
+            </div>
+            <div class="Summary">
+                <h4>Professional Summary</h4>
+               <ul>
+                    <li>Pursuing a degree in Cybersecurity with a decent 
+                        foundation in introductory computer science and web development.</li>
+                    <li>Seeking opportunities to apply and expand my 
+                        knowledge in real-world scenarios.</li>
+                    <li>Strong problem-solving and analytical skills with a 
+                        passion for learning and adapting to new challenges in the field.</li>
+                </ul>
+                <hr></hr>
+            </div>
+            <div class="Education">
+                <h4>Education</h4>
+                <p><b>Bachelor of Science, Cybersecurity</b><p>
+                  <p>Stevens Institute of Technolody | Hoboken, NJ 07030</p> 
+                  <ul>
+                    <li>Nothing to note as of late.</li> 
+                </ul>
+                <hr></hr>
+            </div>
+            <div class="Experience">
+                <h4>Experience</h4>
+                <h5>Private Tutor...........................................................................................
+                    June 2018 to December 2021</h5>
+                <h5>Self-Employed</h5>
+                <ul>
+                    <li>Collaborated with parents to create a study plan appropriate for students'
+                        age and skill level to ensure that the student remained comfortable and engaged throughout the session </li>
+                    <li>Scheduled lessons within the allotted time to strengthen specific subjects' 
+                        students were particularly weak to build their skills </li>
+                </ul>
+                 <h5>DNA Barcoding Student..........................................................................
+                    March 2022 to April 2022 </h5>
+                <h5>DNALC NYC at City Tech | New York, NY </h5>
+                <ul>
+                    <li>Participated in a mentored study on DNA Barcoding and bioinformatics 
+                        specifically using plants and insects in our tests  </li>
+                    <li>Used methods such as PCR and gel electrophoresis to determine the 
+                        species of the plant or insect respectively  </li>
+                    <li>Created a phylogenetic tree using DNA subway to determine the specific 
+                        relationship between different species through a common ancestor </li>
+                </ul>
+                <hr></hr>
+            </div>
+            <div class="Skills">
+                <h4>Skills</h4>
+                <ul>
+                    <li><b>Software:</b>
+                      MS Office: PowerPoint, Word, and Excel</li>
+                    <li><b>Programming:</b> Python, HTML, CSS</li>
+                    <li><b>Languages:</b> English, Mandarin, Cantonese </li>
+                </ul>
+                <hr></hr>
+            </div>
+            <div class="Activity">
+                <h4>Activities</h4>
+                <ul>
+                    <h5>Assistant..................................................................................
+                    January 2021 to August 2021  </h5>
+                <h5>Essex Cafe | Essex, NY </h5>
+                <ul>
+                    <li>Promoted and participated in the creation, packaging, and servicing of 1,381 
+                        free community suppers using locally grown and produced ingredients to support 
+                        the community during the pandemic</li>
+                </ul>
+                <hr></hr>
+            </div>
+            <div class="Interests">
+                <h4>Interests</h4>
+                <ul>
+                    <li>Reading</li>
+                    <li>Swimming</li>
+                    <li>Programming</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>
